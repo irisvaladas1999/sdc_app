@@ -8,7 +8,7 @@ app_license = "mit"
 # Fixtures
 # ------------------
 # Export customizations using fixtures
-fixtures = ["Custom Field", "Property Setter", "Custom Script"]
+fixtures = ["Custom Field"]
 
 # Apps
 # ------------------
