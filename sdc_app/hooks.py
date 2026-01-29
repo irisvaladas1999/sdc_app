@@ -5,6 +5,11 @@ app_description = "SDC - Sussex Door Company"
 app_email = "irisvaladas1999@gmail.com"
 app_license = "mit"
 
+# Fixtures
+# ------------------
+# Export customizations using fixtures
+fixtures = ["Custom Field", "Property Setter", "Custom Script"]
+
 # Apps
 # ------------------
 
