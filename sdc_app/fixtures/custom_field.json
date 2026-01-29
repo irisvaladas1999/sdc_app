@@ -1,6 +1,7 @@
 [
   {
     "doctype": "Custom Field",
+    "name": "Customer-gender",
     "dt": "Customer",
     "fieldname": "gender",
     "fieldtype": "Select",
